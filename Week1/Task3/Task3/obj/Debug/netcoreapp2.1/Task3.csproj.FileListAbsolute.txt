@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\PP2\Week1\Task3\Task3\bin\Debug\netcoreapp2.1\Task3.deps.json
+\\Mac\Home\Desktop\PP2\Week1\Task3\Task3\bin\Debug\netcoreapp2.1\Task3.runtimeconfig.json
+\\Mac\Home\Desktop\PP2\Week1\Task3\Task3\bin\Debug\netcoreapp2.1\Task3.runtimeconfig.dev.json
+\\Mac\Home\Desktop\PP2\Week1\Task3\Task3\bin\Debug\netcoreapp2.1\Task3.dll
+\\Mac\Home\Desktop\PP2\Week1\Task3\Task3\bin\Debug\netcoreapp2.1\Task3.pdb
+\\Mac\Home\Desktop\PP2\Week1\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\PP2\Week1\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\PP2\Week1\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\PP2\Week1\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.AssemblyInfo.cs
+\\Mac\Home\Desktop\PP2\Week1\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.dll
+\\Mac\Home\Desktop\PP2\Week1\Task3\Task3\obj\Debug\netcoreapp2.1\Task3.pdb
