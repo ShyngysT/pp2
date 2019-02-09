@@ -1,0 +1,4 @@
+\\Mac\Home\Desktop\PP2\dop\switch\switch\obj\Debug\netcoreapp2.1\switch.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\PP2\dop\switch\switch\obj\Debug\netcoreapp2.1\switch.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\PP2\dop\switch\switch\obj\Debug\netcoreapp2.1\switch.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\PP2\dop\switch\switch\obj\Debug\netcoreapp2.1\switch.AssemblyInfo.cs

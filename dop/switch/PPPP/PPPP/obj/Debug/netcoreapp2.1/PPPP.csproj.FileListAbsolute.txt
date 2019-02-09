@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\PP2\dop\switch\PPPP\PPPP\bin\Debug\netcoreapp2.1\PPPP.deps.json
+\\Mac\Home\Desktop\PP2\dop\switch\PPPP\PPPP\bin\Debug\netcoreapp2.1\PPPP.runtimeconfig.json
+\\Mac\Home\Desktop\PP2\dop\switch\PPPP\PPPP\bin\Debug\netcoreapp2.1\PPPP.runtimeconfig.dev.json
+\\Mac\Home\Desktop\PP2\dop\switch\PPPP\PPPP\bin\Debug\netcoreapp2.1\PPPP.dll
+\\Mac\Home\Desktop\PP2\dop\switch\PPPP\PPPP\bin\Debug\netcoreapp2.1\PPPP.pdb
+\\Mac\Home\Desktop\PP2\dop\switch\PPPP\PPPP\obj\Debug\netcoreapp2.1\PPPP.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\PP2\dop\switch\PPPP\PPPP\obj\Debug\netcoreapp2.1\PPPP.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\PP2\dop\switch\PPPP\PPPP\obj\Debug\netcoreapp2.1\PPPP.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\PP2\dop\switch\PPPP\PPPP\obj\Debug\netcoreapp2.1\PPPP.AssemblyInfo.cs
+\\Mac\Home\Desktop\PP2\dop\switch\PPPP\PPPP\obj\Debug\netcoreapp2.1\PPPP.dll
+\\Mac\Home\Desktop\PP2\dop\switch\PPPP\PPPP\obj\Debug\netcoreapp2.1\PPPP.pdb
