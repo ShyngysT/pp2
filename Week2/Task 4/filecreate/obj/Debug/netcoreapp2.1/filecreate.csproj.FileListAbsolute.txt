@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\PP2\filecreate\filecreate\bin\Debug\netcoreapp2.1\filecreate.deps.json
+\\Mac\Home\Desktop\PP2\filecreate\filecreate\bin\Debug\netcoreapp2.1\filecreate.runtimeconfig.json
+\\Mac\Home\Desktop\PP2\filecreate\filecreate\bin\Debug\netcoreapp2.1\filecreate.runtimeconfig.dev.json
+\\Mac\Home\Desktop\PP2\filecreate\filecreate\bin\Debug\netcoreapp2.1\filecreate.dll
+\\Mac\Home\Desktop\PP2\filecreate\filecreate\bin\Debug\netcoreapp2.1\filecreate.pdb
+\\Mac\Home\Desktop\PP2\filecreate\filecreate\obj\Debug\netcoreapp2.1\filecreate.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\PP2\filecreate\filecreate\obj\Debug\netcoreapp2.1\filecreate.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\PP2\filecreate\filecreate\obj\Debug\netcoreapp2.1\filecreate.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\PP2\filecreate\filecreate\obj\Debug\netcoreapp2.1\filecreate.AssemblyInfo.cs
+\\Mac\Home\Desktop\PP2\filecreate\filecreate\obj\Debug\netcoreapp2.1\filecreate.dll
+\\Mac\Home\Desktop\PP2\filecreate\filecreate\obj\Debug\netcoreapp2.1\filecreate.pdb
